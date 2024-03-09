@@ -1,0 +1,8 @@
+int[] colorsSHelper2411489 = {Color.parseColor("#" +"FF64B5f6"), Color.parseColor("#" +"FF64B5f6")};
+android.graphics.drawable.GradientDrawable SHelper2411489 = new android.graphics.drawable.GradientDrawable(android.graphics.drawable.GradientDrawable.Orientation.TOP_BOTTOM, colorsSHelper2411489);
+SHelper2411489.setCornerRadii(new float[]{(int)360, (int)360, (int)360, (int)360, (int)360, (int)360, (int)360, (int)360});
+SHelper2411489.setStroke((int)0, Color.parseColor("#" +"ff0000"));
+Back.setElevation((float)26);
+Back.setAlpha((float)(1.0d));
+Back.setRotation((float)(0));
+Back.setBackground(SHelper2411489);
